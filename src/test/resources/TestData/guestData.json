@@ -1,0 +1,20 @@
+{
+    "country_code": "IN",
+    "guest_details": [
+        {
+            "guest_name": "Shivansh",
+            "phone_number": "+919999999999",
+            "alternate_number_1": "+919999999998",
+            "alternate_number_2": "7564283158",
+            "alternate_number_3": "7564122548",
+            "group_ids": ["{{group_id}}"]
+        },
+        {
+            "guest_name": "Jay Surya",
+            "phone_number": "+919999988888",
+            "alternate_number_1": "8828210010",
+            "group_ids": ["{{group_id}}"]
+        }
+    ],
+    "wedding_id": "{{wedding_id}}"
+}
